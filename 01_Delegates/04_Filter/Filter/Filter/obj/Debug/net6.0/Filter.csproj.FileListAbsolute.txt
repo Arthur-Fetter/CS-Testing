@@ -1,0 +1,15 @@
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\bin\Debug\net6.0\Filter.exe
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\bin\Debug\net6.0\Filter.deps.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\bin\Debug\net6.0\Filter.runtimeconfig.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\bin\Debug\net6.0\Filter.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\bin\Debug\net6.0\Filter.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.csproj.AssemblyReference.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.AssemblyInfoInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.AssemblyInfo.cs
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\refint\Filter.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\Filter.genruntimeconfig.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\04_Filter\Filter\Filter\obj\Debug\net6.0\ref\Filter.dll
