@@ -1,0 +1,15 @@
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\bin\Debug\net6.0\Average.exe
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\bin\Debug\net6.0\Average.deps.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\bin\Debug\net6.0\Average.runtimeconfig.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\bin\Debug\net6.0\Average.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\bin\Debug\net6.0\Average.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.csproj.AssemblyReference.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.AssemblyInfoInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.AssemblyInfo.cs
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\refint\Average.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\Average.genruntimeconfig.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\Average\Average\obj\Debug\net6.0\ref\Average.dll

@@ -1,0 +1,15 @@
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.exe
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.deps.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.runtimeconfig.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\bin\Debug\net6.0\Lambdas.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.AssemblyReference.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfoInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.AssemblyInfo.cs
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\refint\Lambdas.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\Lambdas.genruntimeconfig.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\02_Lambda_Squares\Lambdas\Lambdas\obj\Debug\net6.0\ref\Lambdas.dll

@@ -1,0 +1,17 @@
+1. Create a delegate named `MathOperation` that takes two integers as parameters and returns an integer. Use this delegate to write a method called `Add` 
+that adds two numbers and returns their sum. Write another method called `Subtract` that subtracts the second number from the first and returns the result. 
+Finally, write a method called `Calculate` that takes two numbers and a `MathOperation` delegate, and uses the delegate to perform the calculation.
+
+2. Write a lambda expression that squares a given number. Assign the lambda expression to a delegate named `Square` of type `Func<int, int>`. Use this 
+delegate to square a given number.
+
+3. Write a lambda expression that checks if a given string is all uppercase. Assign the lambda expression to a delegate named `IsAllUppercase` of type 
+`Func<string, bool>`. Use this delegate to check if a given string is all uppercase.
+
+4. Create a delegate named `Filter` that takes an integer as a parameter and returns a boolean. Write a method called `IsEven` that returns `true` if a given 
+number is even, and `false` otherwise. Write another method called `IsPositive` that returns `true` if a given number is positive, and `false` otherwise. 
+Finally, write a method called `FilterNumbers` that takes an array of integers and a `Filter` delegate, and returns an array containing only the numbers that 
+pass the filter.
+
+5. Write a lambda expression that calculates the average of a list of integers. Assign the lambda expression to a delegate named `Average` of type 
+`Func<List<int>, double>`. Use this delegate to calculate the average of a given list of integers.

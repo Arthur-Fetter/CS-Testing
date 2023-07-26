@@ -1,0 +1,15 @@
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\bin\Debug\net6.0\LinQ_Sorting_Arrays.exe
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\bin\Debug\net6.0\LinQ_Sorting_Arrays.deps.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\bin\Debug\net6.0\LinQ_Sorting_Arrays.runtimeconfig.json
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\bin\Debug\net6.0\LinQ_Sorting_Arrays.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\bin\Debug\net6.0\LinQ_Sorting_Arrays.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.csproj.AssemblyReference.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.AssemblyInfoInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.AssemblyInfo.cs
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\refint\LinQ_Sorting_Arrays.dll
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.pdb
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\LinQ_Sorting_Arrays.genruntimeconfig.cache
+C:\Users\Arthur_Fetter\Documents\Projects\01_CS\03_Practice_Problems\01_Delegates\05_Average_In_List\LinQ_Sorting_Arrays\LinQ_Sorting_Arrays\obj\Debug\net6.0\ref\LinQ_Sorting_Arrays.dll
